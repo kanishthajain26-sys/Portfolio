@@ -1,0 +1,6 @@
+:root { color-scheme: dark; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; min-height: 100vh; }
+::selection { color: #fff; background: #7653d9; }
+:focus-visible { outline: 2px solid #b69aff; outline-offset: 3px; }
